@@ -6,3 +6,10 @@ Free Sms is an Open Source initiative of [MrShadowDev](https://github.com/MrShad
 
 ### Setup 
 * [Download Here](https://github.com/MrShadowDev/Free-SMS/archive/refs/heads/main.zip)
+* Unzip it to your Desktop.
+* Create your account [here](https://www.twilio.com/try-twilio) to be able to use this.
+* Change your **SID** & **Auth_Token** in the index.py 
+```python
+SID = 'CHANGE_HERE'
+Auth_Token = 'CHANGE_HERE'
+```
