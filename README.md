@@ -21,3 +21,5 @@ Auth_Token = 'CHANGE_HERE'
 ```python
 cl.messages.create(body='CHANGE_THE_TEXT_TO_SEND', from_='THE_NUMBER_PROVIDED_IN_TWILIO, to= 'PHONE_NUMBER_OF_RECEIVER')
 ```
+### Need Help?
+Join my [Discord](https://discord.gg/mrshadow) Server.
